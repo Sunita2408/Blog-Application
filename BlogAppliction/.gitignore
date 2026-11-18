@@ -1,0 +1,14 @@
+# React
+BlogFrontend/node_modules/
+BlogFrontend/dist/
+
+# Spring Boot
+BlogAppliction/target/
+
+# IntelliJ
+BlogAppliction/.idea/
+
+# Environment and secrets
+.env
+**/.env
+**/application-secrets.properties
